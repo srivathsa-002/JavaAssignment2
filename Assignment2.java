@@ -25,3 +25,7 @@ public class Assignment2 {
 		System.out.println("Checking whether the text 'qwertyuiopasdfghjklzxcvbN ABCDEF...' has every alphabet in it: " + obj.allLettersAvailableOrNot("qwertyuiopasdfghjklzxcvbN  ABCDEF..."));
 	}
 }
+
+/* Time Complexity is: O(n)
+ * Space Complexity is: O(n)
+ */
